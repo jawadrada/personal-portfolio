@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.1f71b676.css",
-    "main.js": "/personal-portfolio/static/js/main.0449037c.js",
-    "static/media/AlumLink.png": "/personal-portfolio/static/media/AlumLink.6d2039addc00fb6f8524.png",
-    "static/media/SimStock.png": "/personal-portfolio/static/media/SimStock.7f8b491d96ff66dcece5.png",
-    "static/media/Chess.png": "/personal-portfolio/static/media/Chess.1e2750c3793b5f3f302c.png",
-    "static/media/HeadShot.jpeg": "/personal-portfolio/static/media/HeadShot.08f0b91a203e91f2d6e1.jpeg",
-    "static/media/work-sans-latin-400-normal.woff": "/personal-portfolio/static/media/work-sans-latin-400-normal.8009eca05c90ac095c2b.woff",
-    "static/media/lato-latin-400-normal.woff2": "/personal-portfolio/static/media/lato-latin-400-normal.be36596da218e1eec01c.woff2",
-    "static/media/work-sans-latin-ext-400-normal.woff": "/personal-portfolio/static/media/work-sans-latin-ext-400-normal.ed1f6c96964be68e2ddc.woff",
-    "static/media/work-sans-latin-400-normal.woff2": "/personal-portfolio/static/media/work-sans-latin-400-normal.0c3316f5a8c3abb3f9ff.woff2",
-    "static/media/lato-latin-400-normal.woff": "/personal-portfolio/static/media/lato-latin-400-normal.190b769c7be76a0f0dbf.woff",
-    "static/media/work-sans-latin-ext-400-normal.woff2": "/personal-portfolio/static/media/work-sans-latin-ext-400-normal.7280952dc8882dd88df5.woff2",
-    "static/media/LingoVerse.jpeg": "/personal-portfolio/static/media/LingoVerse.fb8f0eaa480d6a4112ce.jpeg",
-    "static/media/work-sans-vietnamese-400-normal.woff": "/personal-portfolio/static/media/work-sans-vietnamese-400-normal.11aa6febf83aadde6304.woff",
-    "static/media/lato-latin-ext-400-normal.woff2": "/personal-portfolio/static/media/lato-latin-ext-400-normal.361f3dbb9db6a5980326.woff2",
-    "static/media/work-sans-vietnamese-400-normal.woff2": "/personal-portfolio/static/media/work-sans-vietnamese-400-normal.2406246eb4aa9e0ab1f5.woff2",
-    "static/media/lato-latin-ext-400-normal.woff": "/personal-portfolio/static/media/lato-latin-ext-400-normal.221746f6ba5760746446.woff",
-    "index.html": "/personal-portfolio/index.html",
-    "main.1f71b676.css.map": "/personal-portfolio/static/css/main.1f71b676.css.map",
-    "main.0449037c.js.map": "/personal-portfolio/static/js/main.0449037c.js.map"
+    "main.css": "/static/css/main.30c588c2.css",
+    "main.js": "/static/js/main.3d5a7281.js",
+    "static/media/AlumLink.png": "/static/media/AlumLink.6d2039addc00fb6f8524.png",
+    "static/media/SimStock.png": "/static/media/SimStock.7f8b491d96ff66dcece5.png",
+    "static/media/Chess.png": "/static/media/Chess.1e2750c3793b5f3f302c.png",
+    "static/media/HeadShot.jpeg": "/static/media/HeadShot.08f0b91a203e91f2d6e1.jpeg",
+    "static/media/work-sans-latin-400-normal.woff": "/static/media/work-sans-latin-400-normal.8009eca05c90ac095c2b.woff",
+    "static/media/lato-latin-400-normal.woff2": "/static/media/lato-latin-400-normal.be36596da218e1eec01c.woff2",
+    "static/media/work-sans-latin-ext-400-normal.woff": "/static/media/work-sans-latin-ext-400-normal.ed1f6c96964be68e2ddc.woff",
+    "static/media/work-sans-latin-400-normal.woff2": "/static/media/work-sans-latin-400-normal.0c3316f5a8c3abb3f9ff.woff2",
+    "static/media/lato-latin-400-normal.woff": "/static/media/lato-latin-400-normal.190b769c7be76a0f0dbf.woff",
+    "static/media/work-sans-latin-ext-400-normal.woff2": "/static/media/work-sans-latin-ext-400-normal.7280952dc8882dd88df5.woff2",
+    "static/media/LingoVerse.jpeg": "/static/media/LingoVerse.fb8f0eaa480d6a4112ce.jpeg",
+    "static/media/work-sans-vietnamese-400-normal.woff": "/static/media/work-sans-vietnamese-400-normal.11aa6febf83aadde6304.woff",
+    "static/media/lato-latin-ext-400-normal.woff2": "/static/media/lato-latin-ext-400-normal.361f3dbb9db6a5980326.woff2",
+    "static/media/work-sans-vietnamese-400-normal.woff2": "/static/media/work-sans-vietnamese-400-normal.2406246eb4aa9e0ab1f5.woff2",
+    "static/media/lato-latin-ext-400-normal.woff": "/static/media/lato-latin-ext-400-normal.221746f6ba5760746446.woff",
+    "index.html": "/index.html",
+    "main.30c588c2.css.map": "/static/css/main.30c588c2.css.map",
+    "main.3d5a7281.js.map": "/static/js/main.3d5a7281.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f71b676.css",
-    "static/js/main.0449037c.js"
+    "static/css/main.30c588c2.css",
+    "static/js/main.3d5a7281.js"
   ]
 }
